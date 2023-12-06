@@ -6,3 +6,4 @@ Este es mi repositorio de prueba para familiarizarme con GitHub
 **Texto en negritas con doble asterisco**
 > no sé que es blockquote
 `codigo!`
+¿y cuál es el salto de línea?
